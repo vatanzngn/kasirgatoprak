@@ -1,0 +1,20 @@
+package sabitler_pkg;
+   localparam int SOZCUK_GENISLIGI = 32;
+   localparam int ADRES_GENISLIGI = 32;
+   localparam int REGISTER_SAYISI = 32;
+   localparam int MASKE_GENISLIGI_BIT = 4;
+   localparam logic [SOZCUK_GENISLIGI-1:0] NOP = 32'h00000013;
+   localparam int BOLME_HER_CEVRIM_BIT_SAYISI = 1;
+   localparam int ONBELLEK_SATIR_SOZCUK_SAYISI = 4;
+   localparam int L1_BUYRUK_ONBELLEK_YOL_SAYISI = 2;
+   localparam int L1_BUYRUK_ONBELLEK_YOL_SATIR_SAYISI = 128;
+   localparam int L1_VERI_ONBELLEK_YOL_SAYISI = 2;
+   localparam int L1_VERI_ONBELLEK_YOL_SATIR_SAYISI = 128;
+   localparam int ADRES_ONEMSIZ_BIT_SAYISI = 2;
+   localparam int BASLANGIC_ADRESI = 32'h8000_0000;
+   localparam int BITIS_ADRESI = 32'h8100_0000;
+   localparam int YENI_RAM_MODELI_GECIKME = 0;
+   localparam int RAM_SATIR_SAYISI = 512;
+   localparam int RAM_SATIR_SOZCUK_SAYISI = 4;
+   localparam int WB_SLAVE_SAYISI = 1;
+endpackage : sabitler_pkg
