@@ -15,9 +15,9 @@
 - **ASIC Synthesis:** 100 MHz (Synopsys 32nm)
 
 ---
-
-<img src="gorseller/teknofest.jpg" width="900" alt="Synopsys layout output">
-
+<div align="center">
+  <img src="gorseller/teknofest.jpg" width="800" alt="Synopsys layout output">
+</div>
 
 ## 📁 Git Directory Structure
 
@@ -51,15 +51,16 @@ tests/                      # Demo applications and benchmarks
 ---
 
 ## 🧬 Synopsys Chip Layout Output
-
-<img src="gorseller/chip.jpg" width="600" alt="Synopsys layout output">
-
+<div align="center">
+  <img src="gorseller/chip.jpg" width="500" alt="Synopsys layout output">
+</div>
 ---
 
 ## ⛓️ Processor Pipeline Diagram
-
-<img src="gorseller/pipeline.png" width="800" alt="5-stage pipeline">
-
+<div align="center">
+  <img src="gorseller/pipeline.png" width="800" alt="5-stage pipeline">
+</div>  
 ---
-
-<img src="gorseller/logo.png" width="550" alt="KASIRGA-TOPRAK Logo">
+<div align="center">
+  <img src="gorseller/logo.png" width="550" alt="KASIRGA-TOPRAK Logo">
+</div>
