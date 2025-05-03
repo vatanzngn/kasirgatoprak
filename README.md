@@ -16,6 +16,9 @@
 
 ---
 
+<img src="gorseller/teknofest.jpg" width="900" alt="Synopsys layout output">
+
+
 ## 📁 Git Directory Structure
 
 ```bash
@@ -43,23 +46,20 @@ tests/                      # Demo applications and benchmarks
   ├── uart_cikti/           # UART output tests  
   ├── whetstone/            # Whetstone benchmark test  
   └── yardimci/             # Helper scripts for test benches  
+```
 
+---
 
+## 🧬 Synopsys Chip Layout Output
 
-
-# 🧬 Synopsys Chip Layout Output
-
-<img src="gorseller/synopsys.jpg" width="550" alt="Synopsys layout output">
+<img src="gorseller/chip.jpg" width="600" alt="Synopsys layout output">
 
 ---
 
 ## ⛓️ Processor Pipeline Diagram
 
-<img src="gorseller/pipeline.png" width="550" alt="5-stage pipeline">
+<img src="gorseller/pipeline.png" width="800" alt="5-stage pipeline">
 
 ---
-
-## 📂 Synopsys Reports & Analysis Files
-🔗 [Open Synopsys Output Folder](https://1drv.ms/f/c/76140e6c5a65dbc1/EpH3Y8iD4xlMvKQIbeuy-2cBKc9XehIzq5hRykHoJbRRfQ?e=jEE95W)
 
 <img src="gorseller/logo.png" width="550" alt="KASIRGA-TOPRAK Logo">
