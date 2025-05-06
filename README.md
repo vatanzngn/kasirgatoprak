@@ -48,19 +48,18 @@ tests/                      # Demo applications and benchmarks
   └── yardimci/             # Helper scripts for test benches  
 ```
 
----
-
 ## 🧬 Synopsys Chip Layout Output
 <div align="center">
   <img src="gorseller/chip.jpg" width="500" alt="Synopsys layout output">
 </div>
----
 
 ## ⛓️ Processor Pipeline Diagram
 <div align="center">
   <img src="gorseller/pipeline.png" width="800" alt="5-stage pipeline">
 </div>  
----
+
+##
+
 <div align="center">
   <img src="gorseller/logo.png" width="550" alt="KASIRGA-TOPRAK Logo">
 </div>
